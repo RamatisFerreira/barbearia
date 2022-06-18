@@ -1,0 +1,27 @@
+body{}
+
+.Principal { background: #CCCCCC; padding: 30px}
+
+header a { font-size: 22px; color: #000000; text-decoration: none; border-color: #000000; border-style: solid; border-width: 1.5px;}
+
+header a:hover {color: #C78C19}
+
+#banner { width: 100% }
+
+.titulo_principal { padding-left: 20px }
+
+.titulo_secundario { text-align: center }
+
+p { text-align: center }
+
+#missao { font-size: 20px }
+
+em strong{ color: red }
+
+.itens { font-style: italic }
+
+.Beneficios { background: #FFFFFF; padding: 20px }
+
+ul { display: inline-block; vertical-align: top; width: 20%; margin-right:15% }
+
+.imagembeneficios { width: 50% }
